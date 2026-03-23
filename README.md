@@ -47,4 +47,4 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Built With
 
-Designed and built entirely by [Claude](https://claude.ai) (Opus 4.6) in a single conversation.
+Designed and directed using [Claude](https://claude.ai) Opus 4.6, including system architecture, feature definition, and implementation  
