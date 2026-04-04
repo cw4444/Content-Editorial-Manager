@@ -53,4 +53,4 @@ Designed and directed using [Claude](https://claude.ai) Opus 4.6, including syst
 
 This project is proprietary. You may not use, copy, modify, redistribute, deploy, or install it for commercial or client use without prior written permission.
 
-Commercial licenses are available. For business use, professional installation, or deployment enquiries, contact: **cw4444@gmail.com**
+Commercial licenses are available. For business use, professional installation, or deployment enquiries, contact me
