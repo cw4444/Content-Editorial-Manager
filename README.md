@@ -48,9 +48,3 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Built With
 
 Designed and directed using [Claude](https://claude.ai) Opus 4.6, including system architecture, feature definition, and implementation  
-
-## License
-
-This project is proprietary. You may not use, copy, modify, redistribute, deploy, or install it for commercial or client use without prior written permission.
-
-Commercial licenses are available. For business use, professional installation, or deployment enquiries, contact me
